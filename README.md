@@ -12,8 +12,9 @@ My journey in Mechanical Engineering has led me to develop a passion for Machine
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|Solidworks , Creo Parametric .
-|MATLAB Simulink.
+|Computer aided Designing.
+|Computer aided manufacturing.
+|Modelling of fuel Phosphoric acid fuel cell.
 
 ## Tools  
 ### 🛠 Software & Tools  
