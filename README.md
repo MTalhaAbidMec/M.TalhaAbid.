@@ -20,7 +20,8 @@ My journey in Mechanical Engineering has led me to develop a passion for Machine
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB Simulink" width="100"/>  
 <img src="https://i.postimg.cc/x8y6CCvY/download.jpg" alt="Dassault SolidWorks" width="100"/>  
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/PTC_Creo_Logo.png" alt="Creo Parametric" width="100"/>  
+<img src="https://i.postimg.cc/d3HT4cvr/creo.png" alt="Creo Parametric" width="100"/>  
+
 
 
 ## Certifications
