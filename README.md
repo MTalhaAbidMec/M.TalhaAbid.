@@ -38,3 +38,5 @@ My journey in Mechanical Engineering has led me to develop a passion for Machine
 |Modelling and Simulation of a Phosphoric Acid Fuel Cells, Flywheel Energy Storage, and Organic Rankine Cycle for Enhanced Efficiency and Sustainability on MATLAB/SIMULINK
 
 | Computer aided Designing and Manufacturing of a 3D rinted mobile holder made of Polylactic Acid material.
+
+|Online extraction of HVAC Data (Effect of ambient temperature changes on the system load , Power Consumption and Efficiency) to make a Dashboard on Microsoft Power Bi.
