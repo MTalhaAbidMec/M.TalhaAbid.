@@ -12,8 +12,11 @@ My journey in Mechanical Engineering has led me to develop a passion for Machine
  
 |-----------------------------------------------|
 |Computer aided Designing.
+
 |Computer aided manufacturing.
+
 |Modelling of fuel Phosphoric acid fuel cell.
+
 |Making a Dashboard on Microsoft Power Bi.
 
 ## Tools  
