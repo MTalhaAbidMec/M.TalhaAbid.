@@ -9,8 +9,7 @@ I am an undergraduate Mechanical Engineer with a profound interest in Mechanical
 My journey in Mechanical Engineering has led me to develop a passion for Machine Learning , HVAC and CAD Designing and I am now eager to transition into this field.
 
 ## Skills
-
-| Skill                                         | 
+ 
 |-----------------------------------------------|
 |Computer aided Designing.
 |Computer aided manufacturing.
